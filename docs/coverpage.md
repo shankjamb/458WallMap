@@ -1,6 +1,6 @@
 <!-- markdownlint-disable first-line-h1 -->
 
-![logo](_media/icon.svg)
+![logo](USNA.png)
 
 # EW458 Final Project
 

@@ -11,10 +11,9 @@ In the terminal of your python code editor
 
 ‘Python
 
-pip install roslibpy’
-
-
 # RosLibPy Installation
+pip install RosLibPy
+
 
 # Pseudocode Map
 ‘Initialize grid as 2D array filled with -1  // -1 = unknown
